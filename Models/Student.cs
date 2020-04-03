@@ -9,6 +9,6 @@ namespace StudentGitIgnore.Models
     {
         public int SId { get; set; }
         public string SName { get; set; }
-        public string Marks { get; set; }
+        public int Marks { get; set; }
     }
 }

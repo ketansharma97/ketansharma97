@@ -2,7 +2,6 @@ C:\Users\SUPERMAN\source\repos\StudentGitIgnore\bin\Debug\netcoreapp3.1\appsetti
 C:\Users\SUPERMAN\source\repos\StudentGitIgnore\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\SUPERMAN\source\repos\StudentGitIgnore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\SUPERMAN\source\repos\StudentGitIgnore\bin\Debug\netcoreapp3.1\StudentGitIgnore.exe
-C:\Users\SUPERMAN\source\repos\StudentGitIgnore\obj\Debug\netcoreapp3.1\StudentGitIgnore.csprojAssemblyReference.cache
 C:\Users\SUPERMAN\source\repos\StudentGitIgnore\obj\Debug\netcoreapp3.1\staticwebassets\StudentGitIgnore.StaticWebAssets.Manifest.cache
 C:\Users\SUPERMAN\source\repos\StudentGitIgnore\obj\Debug\netcoreapp3.1\staticwebassets\StudentGitIgnore.StaticWebAssets.xml
 C:\Users\SUPERMAN\source\repos\StudentGitIgnore\obj\Debug\netcoreapp3.1\StudentGitIgnore.RazorAssemblyInfo.cache
@@ -106,3 +105,5 @@ C:\Users\SUPERMAN\source\repos\StudentGitIgnore\bin\Debug\netcoreapp3.1\ru\Micro
 C:\Users\SUPERMAN\source\repos\StudentGitIgnore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\SUPERMAN\source\repos\StudentGitIgnore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\SUPERMAN\source\repos\StudentGitIgnore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SUPERMAN\source\repos\StudentGitIgnore\obj\Debug\netcoreapp3.1\Razor\Views\Student\Create.cshtml.g.cs
+C:\Users\SUPERMAN\source\repos\StudentGitIgnore\obj\Debug\netcoreapp3.1\StudentGitIgnore.csprojAssemblyReference.cache
